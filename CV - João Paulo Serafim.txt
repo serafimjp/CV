@@ -1,0 +1,76 @@
+João Paulo Serafim
+
+R. Ernestina Lesina, 69 - Cidade Tiradentes, São Paulo - SP, 08470-260 | Cel. 11-95491-1614 | E-mail: joaopauloserafim@gmail.com
+
+Objetivo
+
+Analista de Suporte
+
+Qualificações
+
+Formado em Gestão da Tecnologia da Informação, certificado em ITIL, com ampla experiência em operação e infraestrutura de TI.
+Gerenciamento de serviços, processos e projetos de TI, alinhado com as melhores práticas e metodologias do mercado.
+
+Experiência Profissional
+
+01/2021 a 12/2021 	Stefanini Group
+			Atendimento ao cliente Porto Seguro, Elevadores Atlas Schindler e Banco Safra.
+			Analista de Suporte - Service Desk (N1/N2)
+
+Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA SDM).
+Apoio em projetos de rollout de computadores (Desktops e Notebooks), migração de sistemas operacionais (Windows) e virtualização de aplicativos (Citrix).
+Implantação, suporte e manutenção de sistemas operacionais (Windows).
+Instalação e suporte de aplicativos (Office e Microsoft 365).
+Instalação e manutenção de software antivírus (Symantec Endpoint Protection).
+Administração e suporte técnico de estações de trabalho (Windows).
+Administração de usuários e computadores (Active Directory).
+Suporte a plataforma de virtualização (Citrix e Oracle).
+Configuração de redes (LAN, WLAN e VPN) e impressoras.
+
+05/2016 a 07/2019 	TIVIT
+			Atendimento ao cliente Banco BV, Multiplan e Levy & Salomão Advogados.
+			Analista de Suporte - Service Desk (N1/N2)
+
+Registro de atividades, atendimento de incidentes e requisições, gestão de ativos em ferramentas de ITSM (CA SDM) e ITAM (CA ITAM).
+Apoio em projetos de atualização de catálogo de serviços, base de conhecimento, rollout de computadores (Desktops e Notebooks) e dispositivos móveis (Tablets e Smartphones).
+Implantação, suporte e manutenção de sistemas operacionais (Windows e macOS).
+Instalação e suporte de aplicativos (Office, Microsoft 365 e Google Workspace).
+Instalação e manutenção de software antivírus (Symantec Endpoint Protection).
+Administração e suporte técnico a estações de trabalho (Windows) e dispositivos móveis (Android e iOS).
+Administração de usuários e computadores (Active Directory).
+Suporte a plataforma de virtualização (Citrix e VMware).
+Configuração de redes (LAN, WLAN e VPN) e impressoras.
+Monitoramento de serviços de impressão (Zabbix).
+
+09/2014 a 04/2016 	SONDA
+			Atendimento ao cliente Banco BV.
+			Analista de Suporte - Service Desk (N1)
+
+Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (CA SDM).
+Administração e suporte técnico a estações de trabalho (Windows).
+Suporte a plataforma de virtualização (Citrix).
+Configuração de redes (LAN, WLAN e VPN) e impressoras.
+
+10/2011 a 07/2013 	ZAP Sistemas
+			Atendimento ao cliente Caixa Econômica Federal, Deutsche Bank, ING Bank, entre outros.
+			Analista de Suporte - ERP
+
+Implantação, suporte e manutenção de sistemas ERP (módulos Contábil e Fiscal).
+Gerenciamento de banco de dados (Microsoft SQL Server e Oracle Database).
+Manutenção de servidores (Linux).
+
+Formação Acadêmica
+
+Graduação em Gestão da Tecnologia da Informação - concluído em 12/2016
+Universidade Cidade de São Paulo - UNICID
+
+Idioma
+
+Inglês - Básico/Técnico
+
+Formação Complementar
+
+Linux, DevOps, Cloud (AWS, GCP e Azure) e Containers (Docker) - 4Linux
+Full Stack (JavaScript) - OneBitCode
+ITIL Foundation Certificate in IT Service Management - Ilumna/EXIN
+Inglês, Scrum, Customer Service - Udemy
