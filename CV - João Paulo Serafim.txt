@@ -14,8 +14,8 @@ Gerenciamento de serviços, processos e projetos de TI, alinhado com as melhores
 Experiência Profissional
 
 01/2021 a 12/2021 	Stefanini Group
-			Atendimento ao cliente Porto Seguro, Elevadores Atlas Schindler e Banco Safra.
-			Analista de Suporte - Service Desk (N1/N2)
+					Atendimento ao cliente Porto Seguro, Elevadores Atlas Schindler e Banco Safra.
+					Analista de Suporte - Service Desk (N1/N2)
 
 Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA SDM).
 Apoio em projetos de rollout de computadores (Desktops e Notebooks), migração de sistemas operacionais (Windows) e virtualização de aplicativos (Citrix).
@@ -28,8 +28,8 @@ Suporte a plataforma de virtualização (Citrix e Oracle).
 Configuração de redes (LAN, WLAN e VPN) e impressoras.
 
 05/2016 a 07/2019 	TIVIT
-			Atendimento ao cliente Banco BV, Multiplan e Levy & Salomão Advogados.
-			Analista de Suporte - Service Desk (N1/N2)
+					Atendimento ao cliente Banco BV, Multiplan e Levy & Salomão Advogados.
+					Analista de Suporte - Service Desk (N1/N2)
 
 Registro de atividades, atendimento de incidentes e requisições, gestão de ativos em ferramentas de ITSM (CA SDM) e ITAM (CA ITAM).
 Apoio em projetos de atualização de catálogo de serviços, base de conhecimento, rollout de computadores (Desktops e Notebooks) e dispositivos móveis (Tablets e Smartphones).
@@ -43,8 +43,8 @@ Configuração de redes (LAN, WLAN e VPN) e impressoras.
 Monitoramento de serviços de impressão (Zabbix).
 
 09/2014 a 04/2016 	SONDA
-			Atendimento ao cliente Banco BV.
-			Analista de Suporte - Service Desk (N1)
+					Atendimento ao cliente Banco BV.
+					Analista de Suporte - Service Desk (N1)
 
 Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (CA SDM).
 Administração e suporte técnico a estações de trabalho (Windows).
@@ -52,8 +52,8 @@ Suporte a plataforma de virtualização (Citrix).
 Configuração de redes (LAN, WLAN e VPN) e impressoras.
 
 10/2011 a 07/2013 	ZAP Sistemas
-			Atendimento ao cliente Caixa Econômica Federal, Deutsche Bank, ING Bank, entre outros.
-			Analista de Suporte - ERP
+					Atendimento ao cliente Caixa Econômica Federal, Deutsche Bank, ING Bank, entre outros.
+					Analista de Suporte - ERP
 
 Implantação, suporte e manutenção de sistemas ERP (módulos Contábil e Fiscal).
 Gerenciamento de banco de dados (Microsoft SQL Server e Oracle Database).
