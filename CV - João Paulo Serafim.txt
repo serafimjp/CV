@@ -31,7 +31,7 @@ Configuração de redes (LAN, WLAN e VPN) e impressoras.
 			Atendimento ao cliente Banco BV, Multiplan e Levy & Salomão Advogados.
 			Analista de Suporte - Service Desk (N1/N2)
 
-Registro de atividades, atendimento de incidentes e requisições e gestão de ativos em ferramentas de ITSM (CA SDM) e ITAM (Service Now, ServiceAide e CA Service Desk Manager).
+Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (CA Service Desk Manager) e gestão de ativos em ferramenta de ITAM (CA IT Asset Manager).
 Apoio em projetos de atualização de catálogo de serviços, base de conhecimento, rollout de computadores (Desktops e Notebooks) e dispositivos móveis (Tablets e Smartphones).
 Implantação, suporte e manutenção de sistemas operacionais (Windows e macOS).
 Instalação e suporte de aplicativos (Office, Microsoft 365 e Google Workspace).
@@ -57,7 +57,7 @@ Configuração de redes (LAN, WLAN e VPN) e impressoras.
 
 Implantação, suporte e manutenção de sistemas ERP (módulos Contábil e Fiscal).
 Gerenciamento de banco de dados (Microsoft SQL Server e Oracle Database).
-Manutenção em servidores (Linux).
+Manutenção em servidores (Windows e Linux).
 
 Formação Acadêmica
 
