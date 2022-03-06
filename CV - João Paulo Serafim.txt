@@ -17,7 +17,7 @@ Experiência Profissional
 					Atendimento ao cliente Porto Seguro, Elevadores Atlas Schindler e Banco Safra.
 					Analista de Suporte - Service Desk (N1/N2)
 
-Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA SDM).
+Registro de atividades e atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA Service Desk Manager).
 Apoio em projetos de rollout de computadores (Desktops e Notebooks), migração de sistemas operacionais (Windows) e virtualização de aplicativos (Citrix).
 Implantação, suporte e manutenção de sistemas operacionais (Windows).
 Instalação e suporte de aplicativos (Office e Microsoft 365).
@@ -31,7 +31,7 @@ Configuração de redes (LAN, WLAN e VPN) e impressoras.
 					Atendimento ao cliente Banco BV, Multiplan e Levy & Salomão Advogados.
 					Analista de Suporte - Service Desk (N1/N2)
 
-Registro de atividades, atendimento de incidentes e requisições, gestão de ativos em ferramentas de ITSM (CA SDM) e ITAM (CA ITAM).
+Registro de atividades, atendimento de incidentes e requisições e gestão de ativos em ferramentas de ITSM (CA SDM) e ITAM (Service Now, ServiceAide e CA Service Desk Manager).
 Apoio em projetos de atualização de catálogo de serviços, base de conhecimento, rollout de computadores (Desktops e Notebooks) e dispositivos móveis (Tablets e Smartphones).
 Implantação, suporte e manutenção de sistemas operacionais (Windows e macOS).
 Instalação e suporte de aplicativos (Office, Microsoft 365 e Google Workspace).
@@ -46,7 +46,7 @@ Monitoramento de serviços de impressão (Zabbix).
 					Atendimento ao cliente Banco BV.
 					Analista de Suporte - Service Desk (N1)
 
-Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (CA SDM).
+Registro de atividades e atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA Service Desk Manager).
 Administração e suporte técnico a estações de trabalho (Windows).
 Suporte a plataforma de virtualização (Citrix).
 Configuração de redes (LAN, WLAN e VPN) e impressoras.
@@ -57,7 +57,7 @@ Configuração de redes (LAN, WLAN e VPN) e impressoras.
 
 Implantação, suporte e manutenção de sistemas ERP (módulos Contábil e Fiscal).
 Gerenciamento de banco de dados (Microsoft SQL Server e Oracle Database).
-Manutenção de servidores (Linux).
+Manutenção em servidores (Linux).
 
 Formação Acadêmica
 
