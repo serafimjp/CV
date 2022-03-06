@@ -1,1 +1,1 @@
-Atualização do meu CV.
+Atualização de currículo.
