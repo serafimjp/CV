@@ -96,7 +96,7 @@ Zabbix
 
 		Desenvolvimento
 
-HTML, CSS, JavaScript, JavaScript ES6+, TypeScript
+HTML 5, CSS, JavaScript, JavaScript ES6+, TypeScript
 Bulma, Flexbox, Grid, Sass, Bootstrap, React
 Node.js, MongoDB, PostgreSQL
 Git, GitHub
