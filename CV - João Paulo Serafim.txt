@@ -90,6 +90,7 @@ Software ERP
 Citrix, VMware, WSL2, Hyper-V, VirtualBox
 Microsoft SQL Server, Oracle Database
 AWS, GCP, Azure
+RDP, SSH, PuTTY
 Docker
 LAN, WLAN, VPN
 Zabbix
@@ -97,7 +98,8 @@ Zabbix
 		Desenvolvimento
 
 HTML 5, CSS, JavaScript, JavaScript ES6+, TypeScript
-Bulma, Flexbox, Grid, Sass, Bootstrap, React
+Flexbox, Grid, Sass, Bulma, Bootstrap, React
 Node.js, MongoDB, PostgreSQL
 Git, GitHub
 Visual Studio Code
+WordPress
