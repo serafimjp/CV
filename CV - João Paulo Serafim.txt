@@ -1,15 +1,11 @@
 João Paulo Serafim
 
-R. Ernestina Lesina, 69 - Cidade Tiradentes, São Paulo - SP, 08470-260 | Cel. 11-95491-1614 | E-mail: joaopauloserafim@gmail.com
+R. Ernestina Lesina, 69 - Cidade Tiradentes, São Paulo - SP, 08470-260
+Celular: 11-95491-1614 | E-mail: joaopauloserafim@gmail.com
 
-Objetivo
+Resumo
 
-Analista de Suporte - Cloud / DevOps
-
-Qualificações
-
-Formado em Gestão da Tecnologia da Informação, certificado em ITIL, com ampla experiência em operação e infraestrutura de TI.
-Gerenciamento de serviços, processos e projetos de TI, alinhado com as melhores práticas e metodologias do mercado.
+Analista de Suporte formado em Gestão da Tecnologia da Informação, certificado em ITIL, com ampla experiência em atendimento ao cliente, suporte técnico em hardware, software, redes e telefonia. Resolução de incidentes e requisições de serviço, atualização de base de conhecimento e melhoria contínua de serviços e processos, alinhado com as melhores práticas e metodologias de mercado.
 
 Experiência Profissional
 
@@ -70,16 +66,17 @@ Inglês - Básico/Técnico
 
 Formação Complementar
 
-Linux, DevOps, Cloud (AWS, GCP e Azure) e Containers (Docker) - 4Linux
-Full Stack (JavaScript) - OneBitCode
-ITIL Foundation Certificate in IT Service Management - Ilumna/EXIN
+Certificação
+
+ITIL V3 - EXIN
+
+Cursos
+
+Linux, DevOps, Cloud e Container - 4Linux
 Inglês, Scrum, Customer Service - Udemy
+Full Stack JavaScript - OneBitCode
 
-Informações Complementares
-
-	Habilidades e Competências:
-
-		Infraestrutura
+Habilidades e Competências
 
 ITIL, Agile, DevOps
 ServiceNow, ServiceAide, CA Service Desk Manager, CA IT Asset Manager, MobileIron
@@ -95,9 +92,7 @@ Docker
 LAN, WLAN, VPN
 Zabbix
 
-		Desenvolvimento
-
-HTML 5, CSS, JavaScript, JavaScript ES6+, TypeScript
+HTML 5, CSS 3, JavaScript, JavaScript ES6+, TypeScript, SQL
 Flexbox, Grid, Sass, Bulma, Bootstrap, React
 Node.js, MongoDB, PostgreSQL
 Git, GitHub
