@@ -1,1 +1,1 @@
-# Repositório para atualização do meu Currículo.
+# Repositório de atualização do meu Currículo.
