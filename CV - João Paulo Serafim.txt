@@ -66,13 +66,18 @@ Inglês - Básico/Técnico
 
 Formação Complementar
 
-Certificação
+Certificações
 
-ITIL V3 - EXIN
+ITIL Foundation Certificate in IT Service Management - EXIN
+DevOps Essentials - 4Linux
+Cloud Fundamentals - 4Linux
+Containers Fundamentals - 4Linux
+Linux Essentials - 4Linux
+Linux Network Servers - 4Linux
+Linux Systems Administration - 4Linux
 
 Cursos
 
-Linux, DevOps, Cloud e Container - 4Linux
 Inglês, Scrum, Customer Service - Udemy
 Full Stack JavaScript - OneBitCode
 
