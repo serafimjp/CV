@@ -68,7 +68,8 @@ Formação Complementar
 
 Certificações
 
-ITIL Foundation Certificate in IT Service Management - EXIN
+ITIL Foundation - EXIN
+IT Service Management - ILUMNA
 DevOps Essentials - 4Linux
 Cloud Fundamentals - 4Linux
 Containers Fundamentals - 4Linux
@@ -78,10 +79,14 @@ Linux Systems Administration - 4Linux
 
 Cursos
 
-Inglês, Scrum, Customer Service - Udemy
-Full Stack Developer - OneBitCode
+Auditoria de Logs - 4Linux
+Scrum Foundation - CertiProf
+Inglês, Customer Service - Udemy
+Full Stack JavaScript - OneBitCode
 
 Habilidades e Competências
+
+Infraestrutura
 
 ITIL, Agile, DevOps
 ServiceNow, ServiceAide, CA Service Desk Manager, CA IT Asset Manager, MobileIron
@@ -96,6 +101,8 @@ RDP, SSH, PuTTY
 Docker
 LAN, WLAN, VPN
 Zabbix
+
+Desenvolvimento
 
 HTML 5, CSS 3, JavaScript, JavaScript ES6+, TypeScript, SQL
 Flexbox, Grid, Sass, Bulma, Bootstrap, React
