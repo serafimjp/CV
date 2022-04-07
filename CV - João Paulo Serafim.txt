@@ -5,7 +5,7 @@ Celular: 11-95491-1614 | E-mail: joaopauloserafim@gmail.com
 
 Resumo
 
-Analista de suporte formado em Gestão da Tecnologia da Informação, certificado em ITIL, Scrum e DevOps, com ampla experiência em operação e infraestrutura de TI.
+Analista de Suporte formado em Gestão da Tecnologia da Informação, certificado em ITIL, Scrum e DevOps, com ampla experiência em operação e infraestrutura de TI.
 
 Experiência Profissional
 
@@ -15,7 +15,7 @@ Experiência Profissional
 
 01/2021 a 12/2021 	Stefanini Group
 			Atendimento ao cliente Porto Seguro, Elevadores Atlas Schindler e Banco Safra.
-			Analista de Suporte - Service Desk (N1/N2)
+			Analista de Suporte - Service Desk / Field Service (N1/N2)
 
 Registro de atividades e atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA Service Desk Manager).
 Apoio em projetos de rollout de computadores (Desktops e Notebooks), migração de sistemas operacionais (Windows) e virtualização de aplicativos (Citrix).
@@ -29,7 +29,7 @@ Configuração de redes (LAN, WLAN e VPN) e impressoras.
 
 05/2016 a 07/2019 	TIVIT
 			Atendimento ao cliente Banco BV, Multiplan e Levy & Salomão Advogados.
-			Analista de Suporte - Service Desk (N1/N2)
+			Analista de Suporte - Service Desk / Field Service (N1/N2)
 
 Registro de atividades, atendimento de incidentes e requisições em ferramentas de ITSM (CA Service Desk Manager) e gestão de ativos em ferramenta de ITAM (CA IT Asset Manager).
 Apoio em projetos de atualização de catálogo de serviços, base de conhecimento, rollout de computadores (Desktops e Notebooks) e dispositivos móveis (Tablets e Smartphones).
@@ -44,7 +44,7 @@ Monitoramento de serviços de impressão (Zabbix).
 
 09/2014 a 04/2016 	SONDA
 			Atendimento ao cliente Banco BV.
-			Analista de Suporte - Service Desk (N1)
+			Analista de Suporte - Service Desk / Field Service (N1)
 
 Registro de atividades e atendimento de incidentes e requisições em ferramentas de ITSM (Service Now, ServiceAide e CA Service Desk Manager).
 Administração e suporte técnico a estações de trabalho (Windows).
