@@ -9,6 +9,10 @@ Analista de suporte formado em Gestão da Tecnologia da Informação, certificad
 
 Experiência Profissional
 
+04/2022 a Atual 	Claranet Brasil
+			Atendimento ao cliente Alelo.
+			Analista de Suporte - Public Cloud
+
 01/2021 a 12/2021 	Stefanini Group
 			Atendimento ao cliente Porto Seguro, Elevadores Atlas Schindler e Banco Safra.
 			Analista de Suporte - Service Desk (N1/N2)
@@ -70,6 +74,7 @@ Certificações
 
 ITIL Foundation - EXIN
 IT Service Management - ILUMNA
+Scrum Foundation - CertiProf
 DevOps Essentials - 4Linux
 Cloud Fundamentals - 4Linux
 Containers Fundamentals - 4Linux
@@ -80,7 +85,6 @@ Linux Systems Administration - 4Linux
 Cursos
 
 Auditoria de Logs - 4Linux
-Scrum Foundation - CertiProf
 Inglês, Customer Service - Udemy
 Full Stack JavaScript - OneBitCode
 
@@ -101,6 +105,7 @@ RDP, SSH, PuTTY
 Docker
 LAN, WLAN, VPN
 Zabbix
+Ansible, Vagrant
 
 Desenvolvimento
 
